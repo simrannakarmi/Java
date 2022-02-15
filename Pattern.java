@@ -12,10 +12,3 @@ public class Pattern {
         }
     }
 }
-/*
- * i=1 j=4 k=1
- ** i=2 j=3 k=2
- *** i=3 j=2 k=3
- **** i=4 j=1 k=4
- ***** i=5 k=5
- */
